@@ -44,5 +44,3 @@ Pulse was created to provide a fully local, privacy-first alternative to Insomni
 ## License
 
 [MIT License](LICENSE)
-
-> **Pulse** is a refined fork of *Insomnium* by Anāgata — customized and simplified for enhanced performance and a cleaner user experience in API development.
