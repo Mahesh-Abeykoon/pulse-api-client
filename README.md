@@ -9,7 +9,7 @@ Pulse is a 100% local, privacy-focused API client for testing GraphQL, REST, Web
 ✅ Modern, eye-friendly themes  
 ✅ Simple enough for beginners, advanced enough for experienced users  
 
-![Site preview](screenshot-1)
+![Site preview](screenshot-1.png)
 <br/> <br/>
 
 [![license](https://img.shields.io/github/license/Mahesh-Abeykoon/pulse-api-client)](LICENSE)
