@@ -32,7 +32,7 @@ Pulse is fully functional on Windows, running 100% locally, and provides a fast,
 
 ## Download
 
-Pulse for Windows is available as an EXE installer. [Download the latest release here](https://github.com/Mahesh-Abeykoon/pulse-api-client/releases).
+Pulse for Win/macOS/Linux here. [Download the latest release here](https://github.com/Mahesh-Abeykoon/pulse-api-client/releases).
 
 ![Site preview](screenshot-2)
 <br/> <br/>
